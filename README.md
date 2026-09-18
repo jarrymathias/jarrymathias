@@ -70,8 +70,8 @@ Inventaire débloqué — armes, sorts et artefacts.
 
 | Slot | Items |
 | :---: | --- |
-| ⚔️ Front-end | HTML · CSS · JavaScript · TypeScript · React · Vue · Next.js · Tailwind · Sass · Bootstrap |
-| 🛡️ Back-end | Node.js · Express · PHP · Python · Java · Laravel |
+| ⚔️ Front-end | HTML · CSS · JavaScript · TypeScript · React · Vue · Next.js · Tailwind ·  Bootstrap |
+| 🛡️ Back-end | Node.js · PHP · Python |
 | 💎 BDD | MySQL · PostgreSQL |
 | 🧰 Outils | Git · GitHub · Cursor · Docker |
 
