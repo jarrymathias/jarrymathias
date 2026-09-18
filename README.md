@@ -47,25 +47,25 @@ Inventaire débloqué — armes, sorts et artefacts.
 ### `⚔️  FRONT-END`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,bootstrap" alt="Front-end" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap" alt="Front-end" />
 </p>
 
 ### `🛡️  BACK-END`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,laravel" alt="Back-end" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python" alt="Back-end" />
 </p>
 
 ### `💎  BASES DE DONNÉES`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" alt="Bases de données" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bases de données" />
 </p>
 
 ### `🧰  OUTILS`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Outils" />
+  <img src="https://skillicons.dev/icons?i=git,github,cursor,docker" alt="Outils" />
 </p>
 
 | Slot | Items |
